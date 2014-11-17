@@ -5,6 +5,8 @@
 2. Ein Fields Item anlegen
 3. In der Elements.xml die Felder: Name, Vorname und Telefonnummer erstellen
 
+
+```
 <Field ID="{de68aad5-05e5-4b8d-bf27-9997e8df1d7b}"
     Name="phonebook"
     StaticName="phonebook"
@@ -15,3 +17,4 @@
     RichText="FALSE"
     DisplaceOnUpgrade="TRUE">
   </Field>
+  ```
